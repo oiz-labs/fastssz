@@ -1,9 +1,10 @@
-module github.com/ferranbt/fastssz
+module github.com/oiz-labs/fastssz
 
 go 1.18
 
 require (
 	github.com/emicklei/dot v1.6.2
+	github.com/ferranbt/fastssz v1.0.0
 	github.com/golang/snappy v0.0.3
 	github.com/minio/sha256-simd v1.0.0
 	github.com/mitchellh/mapstructure v1.3.2
